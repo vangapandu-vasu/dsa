@@ -24,3 +24,14 @@ example: sliding window
 3.trigger-based pointer:
 the first pointer individually finds the value and second pointer tracks it
 example: used in linked list 
+
+when to use two pointers
+it is linear data approach method
+when the problem is about two variables
+palindrome
+search in sorted arrays
+
+problems:
+1.move zeros in leet code it 283
+2.container with most water in leet code it is 11
+more 3sum,merge sorted array, two sum, trapping rain water
