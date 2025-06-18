@@ -16,3 +16,11 @@ types:
 1.converging pointer:
 starts with two pointers in opposite direction move them towards each other until the certain condition is met or they meet each other.
 example: palindrome
+
+2.parallel pointer:
+the pointers start from the first and the first one explores and second one keeps track of it 
+example: sliding window
+
+3.trigger-based pointer:
+the first pointer individually finds the value and second pointer tracks it
+example: used in linked list 
