@@ -7,3 +7,12 @@ concept
 pattern
 implementation
 and solve them
+
+so first pattern
+
+two pointers:
+what is a pointer - a variable which represents the index in an array.
+types:
+1.converging pointer:
+starts with two pointers in opposite direction move them towards each other until the certain condition is met or they meet each other.
+example: palindrome
