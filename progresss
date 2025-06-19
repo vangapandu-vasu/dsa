@@ -9,3 +9,14 @@ You can use checkboxes like this in your markdown file to track:
 - [ ] Linked List
 
 🧠 Focused on Arrays, Strings, and Two Pointer techniques.
+🔷 Arrays & Strings
+🧩 Concept	📝 Problem	✅ Status
+Arrays	Two Sum	✅ Solved
+Arrays	Remove Duplicates from Sorted Array	✅ Solved
+Arrays	Remove Element	✅ Solved
+Arrays	Merge Sorted Array	✅ Solved
+Arrays	Move Zeroes	✅ Solved
+Strings	Valid Palindrome	✅ Solved
+Strings	Reverse String	✅ Solved
+Strings	Reverse Vowels of a String	✅ Solved
+Strings	Is Subsequence	✅ Solved
