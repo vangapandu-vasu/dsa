@@ -34,3 +34,29 @@ This roadmap outlines a step-by-step journey through core Data Structures and Al
 🟩 Dynamic Programming
 
 🔁 Suggested Path (Flow)
+
+🔹 Arrays 
+   ↓
+🔹 Linked List 
+   ↓
+🔹 Stacks & Queues 
+   ↓
+🔹 Hash Tables 
+   ↓
+🟢 Two Pointers / Sliding Window
+   ↙             ↘
+🟢 Recursion     🟢 Sorting
+   ↓                 ↓
+🟢 Backtracking   🟢 Searching
+                      ↓
+                   🟢 Bit Manipulation
+                      ↓
+                 🔹 Tree / BST / Trie
+                      ↓
+                   🔹 Heaps
+                      ↓
+                  🟢 Greedy
+                      ↓
+                  🔹 Graphs / Union-Find
+                      ↓
+                🟢 Dynamic Programming
