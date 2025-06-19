@@ -35,3 +35,15 @@ problems:
 1.move zeros in leet code it 283
 2.container with most water in leet code it is 11
 more 3sum,merge sorted array, two sum, trapping rain water
+✅ Two Pointer Problems You've Mastered So Far (Strings & Arrays):
+Problem	Concept	Status
+Reverse String	Basic two pointers	✅ Done
+Valid Palindrome	Skip non-alphanum	✅ Done
+Reverse Vowels of a String	Selective swapping	✅ Done
+Merge Sorted Array	Two pointers + merge	✅ Done
+Move Zeroes	Shift non-zeroes forward	✅ Done
+Remove Duplicates from Sorted Array	Keep one of each	✅ Done
+Remove Element	Remove specific values	✅ Done
+Is Subsequence	Pointer scan on target string	✅ Done
+
+donw with these problems in two pointers 
