@@ -1,2 +1,10 @@
 ✅ Track Your Progress
 You can use checkboxes like this in your markdown file to track:
+
+- [x] Arrays
+- [x] Two Pointers / Sliding Window
+- [ ] Sorting
+- [ ] Searching
+- [ ] Recursion / Backtracking
+- [ ] Linked List
+
