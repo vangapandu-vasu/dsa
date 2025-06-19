@@ -2,11 +2,12 @@
 You can use checkboxes like this in your markdown file to track:
 
 - [x] Arrays
-- [x] Two Pointers / Sliding Window
+- [x] Two Pointers
+- [ ] Linked List
+- [ ] Sliding Window
 - [ ] Sorting
 - [ ] Searching
 - [ ] Recursion / Backtracking
-- [ ] Linked List
 
 🧠 Focused on Arrays, Strings, and Two Pointer techniques.
 🔷 Arrays & Strings
