@@ -4,3 +4,4 @@ data is stored in non-contignous data
 
 insertion:
 add node in between point the provious and next to it 
+time complexity for insertion is 0(1) constant time.
