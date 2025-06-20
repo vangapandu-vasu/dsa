@@ -62,3 +62,104 @@ This roadmap outlines a step-by-step journey through core Data Structures and Al
                       ↓
                 🟢 Dynamic Programming
 
+							
+ARRAYS	
+   FALSE	1	Majority Element	Problem Link	Easy	Solution Link	Amazon Google
+	FALSE	2	Repeat & missing number	Problem Link	Easy	Solution Link	Amazon
+	FALSE	3	Merge 2 sorted array without xtra space	Problem Link	Easy	Solution Link	Amdocs Brocade Goldman Sachs Juniper Networks Linkedin Microsoft Quikr Snapdeal Synopsys Zoho Adobe
+	FALSE	4	Single Number	Problem Link	Easy	Solution Link	
+	FALSE	5	Stock Buy & Sell	Problem Link	Easy	Solution Link	Amazon DEShaw Directi Flipkart Goldman Sachs Intuit MakeMyTrip Microsoft Ola Cabs Oracle Paytm Pubmatic Quikr Salesforce Sapient Swiggy Walmart Media.net Google
+							
+	FALSE	6	Kadane's Algorithm	Problem Link	Medium	Solution Link	Microsoft Facebook
+	FALSE	7	Pow xn	Problem Link	Medium	Solution Link	
+	FALSE	8	Container with most water	Problem Link	Medium	Solution Link	Flipkart Dunzo
+	FALSE	9	Sort array of 0s, 1s & 2s	Problem Link	Medium	Solution Link	Microsoft Amazon MakeMyTrip
+	FALSE	10	3Sum	Problem Link	Medium	Solution Link	Adobe Amazon Microsoft Morgan Stanley Samsung Snapdeal Times Internet
+	FALSE	11	4Sum	Problem Link	Medium	Solution Link	
+	FALSE	12	Search a 2D matrix 	Problem Link	Medium	Solution Link	
+	FALSE	13	Next permutation	Problem Link	Medium	Solution Link	Adobe GoldmanSachs Uber
+	FALSE	14	Merge overlapping intervals	Problem Link	Medium		Google
+	FALSE	15	Longest substring without repeating	Problem Link	Medium		MorganStanley Amazon
+	FALSE	16	Set matrix zeroes	Problem Link	Medium		Microsoft Amazon
+	FALSE	17	Word search	Problem Link	Medium		Ola GoldmanSachs Google
+	FALSE	18	Product of array except itself	Problem Link	Medium	Solution Link	Amazon DEShaw Intuit MorganStanley Flipkart
+	FALSE	19	Subarray sum equals k	Problem Link	Medium		
+	FALSE	20	Find Duplicate	Problem Link	Medium	Solution Link	Amazon D-E-Shaw Flipkart Paytm Qualcomm Zoho
+							
+	FALSE	21	Count Inversions	Problem Link	Medium / Hard		Adobe Amazon BankBazaar Flipkart Microsoft Myntra MakeMyTrip
+	FALSE	22	Trapping Rainwater	Problem Link	Hard	Solution Link	Samsung
+	FALSE	23	Sliding window maximum	Problem Link	Hard	Solution Link	Amazon Directi Flipkart Microsoft Google
+	FALSE	24	Reverse pairs	Problem Link	Hard		
+	FALSE	25	Largest rectangle in a histogram	Problem Link	Hard	Solution Link	
+							
+							
+BINARY SEARCH	
+   FALSE	1	Search in rotated sorted	Problem Link	Medium	Solution Link	Microsoft Google Adobe Amazon D-E-Shaw Flipkart Hike Intuit MakeMyTrip Paytm 
+	FALSE	2	Peak index in mountain array	Problem Link	Medium	Solution Link	
+	FALSE	3	Single element in sorted array	Problem Link	Medium	Solution Link	
+	FALSE	4	Allocate Minimum Pages (Book Allocation)	Problem Link	Medium	Solution Link	Google Infosys Codenation Amazon Microsoft
+	FALSE	5	Painter’s Partition	Problem Link	Medium	Solution Link	
+	FALSE	6	Aggressive cows	Problem Link	Medium	Solution Link	Adobe
+	FALSE	7	Median of 2 Sorted Arrays	Problem Link	Hard		Amazon Samsung Microsoft Google
+							
+							
+STRINGS
+   FALSE	1	Valid Palindrome	Problem Link	Easy	Solution Link	Amazon Cisco DEShaw Facebook FactSet MorganStanley Paytm Zoho
+	FALSE	2	Longest Common Prefix	Problem Link	Easy		Adobe Blinkit Dunzo
+	FALSE	3	Valid Anagram	Problem Link	Easy		Google Adobe Flipkart Nagarro Media.net Directi
+	FALSE	4	Reverse Words in String	Problem Link	Medium	Solution Link	
+	FALSE	5	Remove All Occurrences of String	Problem Link	Medium	Solution Link	
+	FALSE	6	Permutation in String	Problem Link	Medium	Solution Link	Adobe GoldmanSachs Uber
+	FALSE	7	String Compression	Problem Link	Medium	Solution Link	
+	FALSE	8	Group Anagrams	Problem Link	Medium		Samsung Adobe Amazon
+	FALSE	9	Minimum Window Substring	Problem Link	Hard		Amazon Google MakeMyTrip Streamoid Technologies Microsoft Media.net Atlassian Flipkart
+	FALSE	10	Kmp Algorithm	Problem Link	Hard		
+	FALSE	11	Robin Karp	--concept--	Hard		
+							
+							
+RECURSION & BACKTRACKING	
+   FALSE	1	Combination Sum I	Problem Link	Medium	Solution Link	
+	FALSE	2	Combination Sum II	Problem Link	Medium		
+	FALSE	3	Palindrome Partitioning	Problem Link	Medium	Solution Link	
+	FALSE	4	Knights Tour	Problem Link	Medium		
+	FALSE	5	M Coloring	Problem Link	Medium		
+	FALSE	6	Rat in a Maze	Problem Link	Medium	Solution Link	
+	FALSE	7	Subsets II	Problem Link	Medium	Solution Link	
+	FALSE	8	Merge Sort	Problem Link	Medium		
+	FALSE	9	N Queens	Problem Link	Hard	Solution Link	
+	FALSE	10	Sudoku Solver	Problem Link	Hard	Solution Link	
+	FALSE	11	Count Inversions	Problem Link	Hard		
+							
+							
+LINKED LIST	
+   FALSE	1	Reverse a LL	Problem Link	Easy	Solution Link	
+	FALSE	2	Middle of LL	Problem Link	Easy	Solution Link	
+	FALSE	3	Merge 2 Sorted LL	Problem Link	Easy	Solution Link	
+	FALSE	4	Check if LL Is Palindrome or Not	Problem Link	Easy		
+	FALSE	5	Detect Cycle in LL	Problem Link	Easy	Solution Link	
+	FALSE	6	Remove Cycle in LL	Problem Link	Medium	Solution Link	
+	FALSE	7	Flatten LL	Problem Link	Medium	Solution Link	
+	FALSE	8	Clone LL with Random Pointers	Problem Link	Medium	Solution Link	
+	FALSE	9	Add 2 Numbers	Problem Link	Medium		
+	FALSE	10	Reverse Linked List 2	Problem Link	Medium		
+	FALSE	11	LRU Cache	Problem Link	Medium	Solution Link	
+	FALSE	12	Rotate a LL	Problem Link	Medium		
+	FALSE	13	Reverse Nodes in K Groups	Problem Link	Hard	Solution Link	
+							
+							
+STACK & QUEUE	
+   FALSE	1	Implement Stack using Queue	Problem Link	Easy	Solution Link	
+	FALSE	2	Implement Queue using Stack	Problem Link	Easy	Solution Link	
+	FALSE	3	Next Greater Element I	Problem Link	Easy	Solution Link	
+	FALSE	4	Valid Parenthesis	Problem Link	Easy	Solution Link	
+	FALSE	5	1st Non Repeating in Stream	Problem Link	Easy	Solution Link	
+	FALSE	6	Reverse 1st K Elements of Queue	Problem Link	Easy		
+	FALSE	7	Time needed to Buy Tickets 	Problem Link	Easy		
+	FALSE	8	Next Greater Element II	Problem Link	Medium	Solution Link	
+	FALSE	9	Previous Smaller Element	Problem Link	Medium	Solution Link	
+	FALSE	10	Celebrity Problem 	Problem Link	Medium	Solution Link	
+	FALSE	11	Get Min Element from Stack	Problem Link	Medium	Solution Link	
+	FALSE	12	Circular Tour / Gas Station	Problem Link	Medium	Solution Link	
+	FALSE	13	Rotten Oranges	Problem Link	Medium		
+	FALSE	14	Stock Span	Problem Link	Medium	Solution Link	
+	FALSE	15	Max Area in Histogram	Problem Link	Hard	Solution Link	
