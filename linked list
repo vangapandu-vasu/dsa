@@ -15,3 +15,11 @@ for searching use arraylist over linked list
 in node we have data and pointer.
 data stores data and pointer points to next node.
 the first node is head and last is tail;
+
+
+types:
+singly linked list 
+doubly linked list
+circular linked list
+
+Singly linked list:
