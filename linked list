@@ -5,3 +5,8 @@ data is stored in non-contignous data
 insertion:
 add node in between point the provious and next to it 
 time complexity for insertion is 0(1) constant time.
+time complexity for searching is 0(n).
+
+key point:
+for insertion deletion like manipulation use linked list over arraylist
+for searching use arraylist over linked list 
