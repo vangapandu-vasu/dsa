@@ -1,3 +1,6 @@
 linked list
 here one node points to other nodes.
 data is stored in non-contignous data
+
+insertion:
+add node in between point the provious and next to it 
