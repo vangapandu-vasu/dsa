@@ -1,6 +1,7 @@
 linked list
 here one node points to other nodes.
-data is stored in non-contignous data
+linked list is variable size.
+data is stored in non-contiguous data.
 
 insertion:
 add node in between point the provious and next to it 
