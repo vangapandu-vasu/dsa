@@ -11,3 +11,7 @@ time complexity for searching is 0(n).
 key point:
 for insertion deletion like manipulation use linked list over arraylist
 for searching use arraylist over linked list 
+
+in node we have data and pointer.
+data stores data and pointer points to next node.
+the first node is head and last is tail;
