@@ -1,26 +1,55 @@
-linked list
-here one node points to other nodes.
-linked list is variable size.
-data is stored in non-contiguous data.
+📌 Definition & Characteristics
+Linked list = nodes connected via references.
 
-insertion:
-add node in between point the provious and next to it 
-time complexity for insertion is 0(1) constant time.
-time complexity for searching is 0(n).
+Each node contains:
 
-key point:
-for insertion deletion like manipulation use linked list over arraylist
-for searching use arraylist over linked list 
+data
 
-in node we have data and pointer.
-data stores data and pointer points to next node.
-the first node is head and last is tail;
+next (pointer to the next node)
 
+Non-contiguous memory allocation.
 
-types:
-singly linked list 
-doubly linked list
-circular linked list
+Dynamic size.
 
-Singly linked list:
-in java we have no pointers so we objects for reference
+⚙️ Insertion
+Point the previous.next → newNode
+
+newNode.next → nextNode
+
+Time Complexity:
+
+Insertion: O(1)
+
+Searching: O(n)
+
+💡 When to Use?
+✅ Use LinkedList for insertion/deletion.
+
+❌ Avoid for searching – prefer ArrayList.
+
+🧱 Node Structure in Java
+java
+Copy
+Edit
+class ListNode {
+    int data;
+    ListNode next;
+
+    ListNode(int data) {
+        this.data = data;
+        this.next = null;
+    }
+}
+🔁 Types of Linked List
+Singly Linked List
+
+One direction only (head → ... → tail → null)
+
+Java uses object references instead of pointers.
+
+✅ You've reached here in your learning.
+
+🧠 Problems You’ve Solved So Far
+ reverse a linked list
+ remove nth element from the last of list
+
