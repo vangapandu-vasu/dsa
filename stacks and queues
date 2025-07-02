@@ -1,0 +1,6 @@
+ Step 1: Concepts
+📦 Stack: LIFO (Last-In, First-Out)
+→ Think: Undo operations, parentheses matching
+
+📬 Queue: FIFO (First-In, First-Out)
+→ Think: Task scheduling, printer queue
