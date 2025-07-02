@@ -46,4 +46,4 @@ int peek = queue.peek();
 
 // Check if empty
 boolean empty = queue.isEmpty();
-
+Note: LinkedList is used to implement Queue as Java doesn't allow direct instantiation of Queue (it’s an interface).
