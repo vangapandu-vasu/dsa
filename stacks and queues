@@ -49,3 +49,17 @@ boolean empty = queue.isEmpty();
 Note: LinkedList is used to implement Queue as Java doesn't allow direct instantiation of Queue (it’s an interface).
 
 ✅ ROADMAP: STACK AND QUEUE PROBLEMS TO SOLVE
+🔁 STACK PROBLEMS (Easy → Medium)
+Valid Parentheses (LeetCode 20)
+
+Min Stack (LeetCode 155)
+
+Implement Stack using Queues (LeetCode 225)
+
+Next Greater Element I (LeetCode 496)
+
+Remove All Adjacent Duplicates in String (LeetCode 1047)
+
+Daily Temperatures (LeetCode 739)
+
+Asteroid Collision (LeetCode 735)
