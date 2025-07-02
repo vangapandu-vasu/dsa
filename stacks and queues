@@ -25,3 +25,7 @@ int top = stack.peek();
 
 // Check if empty
 boolean empty = stack.isEmpty();
+
+📬 QUEUE
+🧠 Concept:
+Queue is a FIFO structure (First In, First Out). Think of a line at a ticket counter — the first person in is served first.
