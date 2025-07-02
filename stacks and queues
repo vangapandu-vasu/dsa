@@ -6,3 +6,7 @@ Step 1: Concepts
 
 📬 Queue: FIFO (First-In, First-Out)
 → Think: Task scheduling, printer queue
+
+📦 STACK
+🧠 Concept:
+Stack is a LIFO structure (Last In, First Out). Think of a stack of plates — the last one you put on is the first you take off.
