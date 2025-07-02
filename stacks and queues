@@ -29,3 +29,21 @@ boolean empty = stack.isEmpty();
 📬 QUEUE
 🧠 Concept:
 Queue is a FIFO structure (First In, First Out). Think of a line at a ticket counter — the first person in is served first.
+
+import java.util.Queue;
+import java.util.LinkedList;
+
+Queue<Integer> queue = new LinkedList<>();
+
+// Enqueue
+queue.offer(10);
+
+// Dequeue
+int front = queue.poll();
+
+// Peek (front element without removing)
+int peek = queue.peek();
+
+// Check if empty
+boolean empty = queue.isEmpty();
+
