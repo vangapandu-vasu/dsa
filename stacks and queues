@@ -10,3 +10,18 @@ Step 1: Concepts
 📦 STACK
 🧠 Concept:
 Stack is a LIFO structure (Last In, First Out). Think of a stack of plates — the last one you put on is the first you take off.
+import java.util.Stack;
+
+Stack<Integer> stack = new Stack<>();
+
+// Push elements
+stack.push(10);
+
+// Pop element
+int popped = stack.pop();
+
+// Peek (top element without removing)
+int top = stack.peek();
+
+// Check if empty
+boolean empty = stack.isEmpty();
