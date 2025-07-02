@@ -3,7 +3,8 @@ You can use checkboxes like this in your markdown file to track:
 
 - [x] Arrays
 - [x] Two Pointers
-- [ ] Linked List
+- [x] Linked List
+- [ ] Stacks and qeues
 - [ ] Sliding Window
 - [ ] Sorting
 - [ ] Searching
