@@ -12,7 +12,7 @@ You can use checkboxes like this in your markdown file to track:
 - [ ] Recursion / Backtracking
 
 🧠 Focused on Arrays, Strings, and Two Pointer techniques.
-🔷 Arrays & Strings
+🔷 Arrays & Strings:
 🧩 Concept	📝 Problem	✅ Status
 Arrays	Two Sum	✅ Solved
 Arrays	Remove Duplicates from Sorted Array	✅ Solved
@@ -25,7 +25,7 @@ Strings	Reverse Vowels of a String	✅ Solved
 Strings	Is Subsequence	✅ Solved
 
 
-🟢 Two Pointers Technique
+🟢 Two Pointers Technique:
 📝 Problem	✅ Status
 Reverse String	✅ Solved
 Reverse Vowels of a String	✅ Solved
