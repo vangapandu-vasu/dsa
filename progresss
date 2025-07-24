@@ -5,7 +5,7 @@ You can use checkboxes like this in your markdown file to track:
 - [x] Two Pointers
 - [x] Linked List
 - [x] Stacks and qeues
-- [ ] hash tables
+- [x] hash tables
 - [ ] Sliding Window
 - [ ] Sorting
 - [ ] Searching
