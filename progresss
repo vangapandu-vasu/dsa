@@ -6,6 +6,7 @@ You can use checkboxes like this in your markdown file to track:
 - [x] Linked List
 - [x] Stacks and qeues
 - [x] hash tables
+- [x] binary search
 - [ ] Sliding Window
 - [ ] Sorting
 - [ ] Searching
