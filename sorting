@@ -19,3 +19,31 @@ We compare every adjacent value and place the largest value at the end.
     }
 }
 
+2.Selection sort
+In selection sort we sort in the opposite way of bubble sort
+In mean we intialize the first element to variable and if the next element is sammler than the assigned varible we swap that number
+we search in the whole array and if we find any smaller element we will swap and reduce the array from the start
+
+  code for Selection sort:
+    void selectionSort(int[] arr) {
+    int n = arr.length;
+
+    for (int i = 0; i < n - 1; i++) {
+        // Find the minimum element in the unsorted part
+        int minIndex = i;
+        for (int j = i + 1; j < n; j++) {
+            if (arr[j] < arr[minIndex]) {
+                minIndex = j;
+            }
+        }
+
+        // Swap the found minimum with the first element
+        int temp = arr[minIndex];
+        arr[minIndex] = arr[i];
+        arr[i] = temp;
+    }
+}
+
+3.Insertion sort:
+
+    
