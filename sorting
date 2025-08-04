@@ -1,0 +1,6 @@
+Sorting
+In base we 3 sorting algorithms:
+1.Bubble sort
+In bubble sorting we take the largest element and place it in the last of thee array and shorten the array from the last
+In mean we take large array and place in last place then it is sorted from last
+We compare every adjacent value and place the largest value at the end.
