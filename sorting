@@ -71,5 +71,9 @@ These are not good enough for development and not optimised
 
 
 
-
+So we implement merge sort
+Merge Sort:
+  It is commonly known as divide and conquer
+  Here we divide the array and sort them while merging
+  It takes O(n logn) time complexity.
     
