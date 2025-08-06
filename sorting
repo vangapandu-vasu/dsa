@@ -65,5 +65,11 @@ and we place that in first place so we take every element and compare if they ar
     }
 }
 
+These three algorithms make of O(n^2) complexity
+If the array is half sorted the insertion sort takes around O(n)
+These are not good enough for development and not optimised
+
+
+
 
     
