@@ -8,7 +8,7 @@ You can use checkboxes like this in your markdown file to track:
 - [x] hash tables
 - [x] binary search
 - [ ] Sliding Window
-- [ ] Sorting
+- [x] Sorting
 - [ ] Searching
 - [ ] Recursion / Backtracking
 
